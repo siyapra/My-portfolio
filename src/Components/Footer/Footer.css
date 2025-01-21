@@ -1,0 +1,12 @@
+.containerS {
+    text-align: center;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-weight: 16px;
+    color: rgb(72, 60, 60);
+}
