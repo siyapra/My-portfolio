@@ -7,7 +7,7 @@ const ProjectCard = () => {
     return (
         <>
 
-            <a href="https://github.com" target='_blank'>
+            <a href="https://e-commerce-bcfo.onrender.com/" target='_blank'>
                 <img className='hovers' src={Viberr} alt="Viberr logo" />
                 <h3>Viberr</h3>
                 <p>Streaming App</p>
