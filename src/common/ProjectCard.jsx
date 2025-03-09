@@ -18,7 +18,7 @@ const ProjectCard = () => {
                 <h3>Fresh Burger</h3>
                 <p>Hamburger Restaurant</p>
             </a>
-            <a href="https://github.com" target='_blank'>
+            <a href="https://tirp-planner.onrender.com/" target='_blank'>
                 <img className='hovers' src={hipsster} alt="Viberr logo" />
                 <h3>Hipsster</h3>
                 <p>Glasses Shop</p>
