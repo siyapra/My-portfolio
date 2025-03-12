@@ -18,7 +18,7 @@ const ProjectCard = () => {
                 <h3>Fresh Burger</h3>
                 <p>Hamburger Restaurant</p>
             </a>
-            <a href="https://e-commerce-bcfo.onrender.com/" target='_blank'>
+            <a href="https://hippster.netlify.app/" target='_blank'>
                 <img className='hovers' src={hipsster} alt="Viberr logo" />
                 <h3>Hipsster</h3>
                 <p>Glasses Shop</p>
