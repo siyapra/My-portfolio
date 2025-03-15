@@ -20,12 +20,16 @@ span {
 a {
     margin: 0;
 }
-
+img{
+    width: 40px;
+}
 .logo-icon {
     width: 100px;
 }
 
-
+.text-span{
+    text-align: center;
+}
 
 a {
     width: fit-content;
