@@ -13,7 +13,7 @@ const ProjectCard = () => {
                 <p>Streaming App</p>
             </a>
 
-            <a href="https://github.com" target='_blank'>
+            <a href="https://karisitascollage.netlify.app/" target='_blank'>
                 <img className='hovers' src={burger} alt="Viberr logo" />
                 <h3>Fresh Burger</h3>
                 <p>Hamburger Restaurant</p>
