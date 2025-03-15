@@ -14,30 +14,30 @@ const Skills = () => {
 
             </div>
             <div className="skillsList">
-                <img src={checkMarkIcon} alt="Checkmark icon" />
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
                 <p>HTML</p>
 
-                <img src={checkMarkIcon} alt="Checkmark icon" />
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
                 <p>CSS</p>
-                <img src={checkMarkIcon} alt="Checkmark icon" />
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
                 <p>Javascript</p>
             </div>
             <hr />
             <div className="skillsList">
-                <img src={checkMarkIcon} alt="Checkmark icon" />
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon' />
                 <p>Bootstrap</p>
-                <img src={checkMarkIcon} alt="Checkmark icon" />
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
                 <p>Figma</p>
-                <img src={checkMarkIcon} alt="Checkmark icon" />
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
                 <p>PS</p>
             </div>
             <hr />
             <div className="skillsList">
 
-                <img src={checkMarkIcon} alt="Checkmark icon" />
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon' />
                 <p>Git</p>
 
-                <img src={checkMarkIcon} alt="Checkmark icon" />
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
                 <p>GitHub</p>
             </div>
         </>
