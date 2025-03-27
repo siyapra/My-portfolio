@@ -23,7 +23,7 @@ const ProjectCard = () => {
                 <h3>Hipsster</h3>
                 <p>Glasses Shop</p>
             </a>
-            <a href="https://github.com" target='_blank'>
+            <a href="https://the-fitness-collage.netlify.app/" target='_blank'>
                 <img className='hovers' src={Fitlift} alt="Viberr logo" />
                 <h3>FitLift</h3>
                 <p>Fitness App</p>
