@@ -5,9 +5,9 @@ import './Footer.css'
 const Footer = () => {
     return (
         <section id='footer' className='containerS'>
-            <p>&copy; 2024 Sitaram prajapat.  <br />
+            <h3 className='footer-text'>&copy; 2024 Sitaram prajapat.  <br />
                 All rights reserved.
-            </p>
+            </h3>
         </section>
     )
 }

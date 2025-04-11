@@ -75,6 +75,9 @@ button:active {
 
 .description {
     max-width: 24ch;
+    font-size: 17px;
+    font-weight: 100;
+    letter-spacing: 1px;
 }
 
 .info {

@@ -54,10 +54,10 @@ function Hero() {
                     </a>
                 </span>
                 <span className='text-span'>
-                    <p className='description'>
+                    <h2 className='description'>
                         With a passion for developing modern React web apps for commercial
                         businesses.
-                    </p>
+                    </h2>
                 </span>
 
                 <a href={Main} download>

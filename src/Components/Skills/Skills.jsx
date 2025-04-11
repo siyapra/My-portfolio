@@ -14,31 +14,33 @@ const Skills = () => {
 
             </div>
             <div className="skillsList">
-                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
-                <p>HTML</p>
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon' />
+                <h3 className='text-force'>HTML</h3>
 
-                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
-                <p>CSS</p>
-                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
-                <p>Javascript</p>
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon' />
+                <h3 className='text-force'>CSS</h3>
+
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon' />
+                <h3 className='text-force'>Javascript</h3>
             </div>
             <hr />
             <div className="skillsList">
                 <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon' />
-                <p>Bootstrap</p>
-                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
-                <p>Figma</p>
-                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
-                <p>PS</p>
+                <h3 className='text-force'>Bootstrap</h3>
+
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon' />
+                <h3 className='text-force'>Tailwind css</h3>
+
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon' />
+                <h3 className='text-force'>PS</h3>
             </div>
             <hr />
             <div className="skillsList">
+                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon' />
+                <h3 className='text-force'>Git</h3>
 
                 <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon' />
-                <p>Git</p>
-
-                <img src={checkMarkIcon} alt="Checkmark icon" className='logo-icon'/>
-                <p>GitHub</p>
+                <h3 className='text-force'>GitHub</h3>
             </div>
         </>
     )
